@@ -7,7 +7,7 @@
   {
       "action": "record",
       "eventUrl": [
-          "http://myrecordings/voicemails"
+          "https://requestb.in/1971ciz1"
       ],
       "endOnSilence": "3",
       "endOnKey" : "#",
